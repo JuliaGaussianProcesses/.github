@@ -1,7 +1,7 @@
 # Welcome to JuliaGPs
 
 JuliaGPs is an organisation interested in making Gaussian process models work well in the [Julia programming language](https://julialang.org/).
-They are targeted at people who want to use [Gaussian processes](https://en.wikipedia.org/wiki/Gaussian_process) as Bayesian statistical models,
+The packages in this ecosystem are targeted at people who want to use [Gaussian processes](https://en.wikipedia.org/wiki/Gaussian_process) as Bayesian statistical models,
 or people who want to do methodological research on Gaussian processes.
 
 If you're new to the organisation, you should develop an understanding of the core packages:
