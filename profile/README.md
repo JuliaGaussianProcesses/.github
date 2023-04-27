@@ -12,7 +12,7 @@ If you're new to the organisation, you should develop an understanding of the co
 
 `KernelFunctions` and `GPLikelihoods` are low-level packages implementing APIs for kernel functions and observation likelihoods, respectively, and include implementations of the most common
 classes of kernels and likelihoods used in pratice.
-`AbstractGPs` and `ApproximateGPs` are higher-level packages that implement inference of both full and sparse GPs with Gaussian and non-Gaussian likelihoods, respectively.
+`AbstractGPs` and `ApproximateGPs` are higher-level packages that implement inference of full and sparse GPs. `AbstractGPs` is restricted to Gaussian likelihoods, while `ApproximateGPs` also allows for non-Gaussian ones.
 `AbstractGPs` dependends on `KernelFunctions`, while `ApproximateGPs` depends on `AbstractGPs` and additionally on `GPLikelihoods`. 
 The lower-level packages are reexported, and thus to have the complete experience at your fingertips, you can just use `ApproximateGPs`.
 In order to develop an understanding of the ecosystem, however, it is best to study the packages in the above order 1-4.
