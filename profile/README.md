@@ -1,14 +1,22 @@
 # Welcome to JuliaGPs
 
 JuliaGPs is an organisation interested in making Gaussian process models work well in the [Julia programming language](https://julialang.org/).
-A lot of us use [Gaussian processes](https://en.wikipedia.org/wiki/Gaussian_process) in our research, or do methodological research on Gaussian processes.
+The packages in this ecosystem are targeted at people who want to use [Gaussian processes](https://en.wikipedia.org/wiki/Gaussian_process) as Bayesian statistical models,
+or people who want to do methodological research on Gaussian processes.
 
 If you're new to the organisation, you should develop an understanding of the core packages:
 1. [KernelFunctions.jl](https://github.com/JuliaGaussianProcesses/KernelFunctions.jl)
-2. [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl)
-3. [ApproximateGPs.jl](https://github.com/JuliaGaussianProcesses/ApproximateGPs.jl)
+2. [GPLikelihoods.jl](https://github.com/JuliaGaussianProcesses/GPLikelihoods.jl)
+3. [AbstractGPs.jl](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl)
+4. [ApproximateGPs.jl](https://github.com/JuliaGaussianProcesses/ApproximateGPs.jl)
 
-`ApproximateGPs` depends on `AbstractGPs` and `KernelFunctions`, and `AbstractGPs` dependends on `KernelFunctions`, so it's best to develop and understanding of these packages in the above order.
+`KernelFunctions` and `GPLikelihoods` are low-level packages implementing APIs for kernel functions and observation likelihoods, respectively, and include implementations of the most common
+classes of kernels and likelihoods used in pratice.
+`AbstractGPs` and `ApproximateGPs` are higher-level packages that implement inference of full and sparse GPs. `AbstractGPs` is restricted to Gaussian likelihoods, while `ApproximateGPs` also allows for non-Gaussian ones.
+`AbstractGPs` dependends on `KernelFunctions`, while `ApproximateGPs` depends on `AbstractGPs` and additionally on `GPLikelihoods`. 
+The lower-level packages are reexported, and thus to have the complete experience at your fingertips, you can just use `ApproximateGPs`.
+In order to develop an understanding of the ecosystem, however, it is best to study the packages in the above order 1-4.
+
 These core packages are maintained jointly by [all org members](https://github.com/orgs/JuliaGaussianProcesses/people), and we try to ensure that they work well and are of a high standard.
 Consequently, you should expect to recieve good support when working with them, for example you should expect prompt responses when you open issues / pull requests.
 
