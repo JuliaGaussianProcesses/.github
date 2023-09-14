@@ -31,6 +31,6 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
     <img src="https://widmann.dev/assets/profile_small.jpg" alt="Person's Name" width="100" height="100" />
   <br />
   <a href="https://www.github.com/devmotion">
-    <img src="https://img.shields.io/github/followers/username?style=social" alt="GitHub Badge" />
+    <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16" />
   </a>
 </div>
