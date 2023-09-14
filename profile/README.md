@@ -33,7 +33,7 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
   <div style="margin-left: 10px;">
   <a href="https://www.github.com/devmotion">
     <p>David Widmann</p>
-    <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16"/>
+    <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16" max_width="100px"/>
   </a>
   </div>
 </div>
