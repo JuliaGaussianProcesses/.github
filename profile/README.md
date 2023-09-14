@@ -27,13 +27,13 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
 
 <details>
 <summary>Team</summary>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; max-width=100px">
     <img src="https://widmann.dev/assets/profile_small.jpg" alt="David Widmann" style="width: 100%; height: 100%; object-fit: cover;" />
   <br />
   <div style="margin-left: 10px;">
   <a href="https://www.github.com/devmotion">
     <p>David Widmann</p>
-    <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16" max_width="100px"/>
+    <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16"/>
   </a>
   </div>
 </div>
