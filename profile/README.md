@@ -30,9 +30,12 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://widmann.dev/assets/profile_small.jpg" alt="David Widmann" width="100" height="100" />
   <br />
+  <div style="margin-left: 10px;">
   <a href="https://www.github.com/devmotion">
-    <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16" style="margin-left: 10px;" />
+    <p>David Widmann</p>
+    <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16"/>
   </a>
+  </div>
 </div>
 <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://yebai.github.io/images/hg344-pr.jpg" alt="Hong Ge" width="100" height="100" />
