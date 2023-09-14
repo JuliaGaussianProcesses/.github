@@ -27,5 +27,5 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
 
 <details>
 <img src="https://widmann.dev/assets/profile_small.jpg" alt="drawing" width="200"/>
-
+<a href="https://www.github.com/devmotion"><i class="fas fa-github"></i></a>
 </details>
