@@ -24,3 +24,8 @@ You'll notice a variety of other packages in this organisation.
 These are all packages which depend on the above core packages in some way or another.
 Often they're developed by an org member to support their personal research agenda.
 They generally only have 1 or 2 maintainers, so you should expect a lower level of support.
+
+<details>
+![david_widmann_photo](https://widmann.dev/assets/profile_small.jpg)
+
+</details>
