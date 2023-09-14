@@ -28,7 +28,7 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
 <details>
 <summary>Team</summary>
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://widmann.dev/assets/profile_small.jpg" alt="David Widmann" height=15px />
+    <img src="https://widmann.dev/assets/profile_small.jpg" alt="David Widmann" height=100px />
   <br />
   <div style="margin-left: 10px;">
   <a href="https://www.github.com/devmotion">
