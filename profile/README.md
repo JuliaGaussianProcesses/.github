@@ -29,7 +29,7 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
 <summary>Team</summary>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <table style="width: 100%;">
+    <table style="width: 100%; border: 0;">
     <tr>
     <td style="vertical-align: middle;">
         <img src="https://widmann.dev/assets/profile_small.jpg" alt="David Widmann" height=100px />
