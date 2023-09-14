@@ -26,6 +26,6 @@ Often they're developed by an org member to support their personal research agen
 They generally only have 1 or 2 maintainers, so you should expect a lower level of support.
 
 <details>
-<img src="https://widmann.dev/assets/profile_small.jpg" alt="drawing" width="200"/>
+<img src="https://widmann.dev/assets/profile_small.jpg" alt="drawing" width="200"/></img>
 <a href="https://www.github.com/devmotion"><i class="fas fa-github"></i></a>
 </details>
