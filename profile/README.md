@@ -31,10 +31,10 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
 <div style="display: flex; align-items: center; justify-content: center;">
     <table style="width: 100%;">
     <tr>
-    <td>
+    <td style="vertical-align: middle;">
         <img src="https://widmann.dev/assets/profile_small.jpg" alt="David Widmann" height=100px />
     </td>
-    <td>
+    <td style="vertical-align: middle; margin-left: 10px;">
         <a href="https://www.github.com/devmotion">
             <p>David Widmann</p>
             <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16"/>
