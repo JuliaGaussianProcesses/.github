@@ -27,5 +27,5 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
 
 <details>
 <summary>Team</summary>
-<p>While numerous people have contributed to the JuliaGPs ecosystem, core contributors (in alphabetical order) include [David Widmann](https://www.widmann.dev/), [Hong Ge](https://mlg.eng.cam.ac.uk/hong/), [Ross Viljoen](https://github.com/rossviljoen), [Sharan Yalburgi](https://sharanry.github.io/), [ST John](http://www.infinitecuriosity.org/), [Théo Galy-Fajou](https://theogf.dev/), and <a href="https://github.com/willtebbutt/">Will Tebbutt</a></p>
+<p>While numerous people have contributed to the JuliaGPs ecosystem, core contributors (in alphabetical order) include <a href="https://www.widmann.dev/">David Widmann</a>, <a href="https://mlg.eng.cam.ac.uk/hong/">Hong Ge</a>, <a href="https://github.com/rossviljoen">Ross Viljoen</a>, <a href="https://sharanry.github.io/">Sharan Yalburgi</a>, <a href="http://www.infinitecuriosity.org/">ST John</a>, <a href="https://theogf.dev/">Théo Galy-Fajou</a>, and <a href="https://github.com/willtebbutt/">Will Tebbutt</a></p>
 </details>
