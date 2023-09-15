@@ -25,6 +25,37 @@ These are all packages which depend on the above core packages in some way or an
 Often they're developed by an org member to support their personal research agenda.
 They generally only have 1 or 2 maintainers, so you should expect a lower level of support.
 
+<style>
+.team-row {
+    display: flex;
+    align-items: center;
+}
+
+.team-row-bio {
+    display: flex;
+    align-items: center;
+    padding-left: 5%;
+}
+
+.team-row-image {
+    width: 10em;
+    height: 10em;
+    overflow: hidden;
+}
+
+.team-row-image img {
+    border-radius: 10%;
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+}
+
+.team-row-bio-links a {
+    color: #5c5c5c !important;
+}
+</style>
+
 <details>
 <summary>Team</summary>
 
@@ -34,7 +65,7 @@ They generally only have 1 or 2 maintainers, so you should expect a lower level 
     </div>
     <div class="text">
         <a href="https://www.github.com/devmotion">
-            <p>David Widmann</p>
+            <p>David Widmann, Uppsala University</p>
             <img src="https://github.com/favicon.ico" alt="GitHub Favicon" width="16" height="16"/>
         </a>
     </div>
