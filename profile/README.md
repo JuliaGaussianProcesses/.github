@@ -24,3 +24,8 @@ You'll notice a variety of other packages in this organisation.
 These are all packages which depend on the above core packages in some way or another.
 Often they're developed by an org member to support their personal research agenda.
 They generally only have 1 or 2 maintainers, so you should expect a lower level of support.
+
+<details>
+<summary>Team</summary>
+<p>While numerous people have contributed to the JuliaGPs ecosystem, core contributors (in alphabetical order) include <a href="https://www.widmann.dev/">David Widmann</a>, <a href="https://mlg.eng.cam.ac.uk/hong/">Hong Ge</a>, <a href="https://github.com/rossviljoen">Ross Viljoen</a>, <a href="https://sharanry.github.io/">Sharan Yalburgi</a>, <a href="http://www.infinitecuriosity.org/">ST John</a>, <a href="https://theogf.dev/">Théo Galy-Fajou</a>, and <a href="https://github.com/willtebbutt/">Will Tebbutt</a></p>
+</details>
